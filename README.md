@@ -1,4 +1,4 @@
-# unity-jumpingball
+# unity-endless-jump
 Endless game using Unity Engine
 
 # Google Play
